@@ -57,7 +57,7 @@ body{
     padding: 20px; 
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); 
     margin: 20px auto; 
-    max-width: 55%; 
+    max-width: 60%; 
 }
 
 /*----------------------------------------*/
@@ -73,4 +73,35 @@ body{
     background-position: center;
     background-repeat: no-repeat; /* Per evitare la ripetizione dell'immagine */
     z-index: 10;
+}
+
+h6{
+    font-weight:500;
+    font-size: small;
+}
+/*----------------------------------------*/
+/*-----------BARRA CUSTOM RICERCA---------*/
+/*----------------------------------------*/
+.search-button-icon{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 30px;
+    height: 30px;
+    color: #FFF;
+    background-color: #FF0000;
+    border-radius: 50%;
+}
+
+#nav_custom{
+    padding: 0.2em;
+    border-radius: 15em;
+}
+
+#nav_custom div{
+    margin-right: 0.4em;
+}
+
+#nav_custom div:first-child{
+    margin-right: 0.7em;
 }
