@@ -5,7 +5,7 @@
 }
 
 body{
-    background-color: black;
+    background-color: #000;
 }
 
 
@@ -74,3 +74,5 @@ body{
     background-repeat: no-repeat; /* Per evitare la ripetizione dell'immagine */
     z-index: 10;
 }
+
+/* pag 2 */

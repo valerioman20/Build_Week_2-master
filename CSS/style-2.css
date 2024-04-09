@@ -1,0 +1,73 @@
+#navbar_madre div a img{
+    max-width: 90px;
+}
+
+.menu_nav_DX{
+    width: 3.5em;
+    background-color: white;
+    border-radius: 15px;
+    height: 2.1em;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  
+}
+
+.menu_nav_DX i {
+    font-size: 15px;
+}
+
+.right_content {
+    display: flex; 
+    align-items: center; 
+    justify-content: flex-end;
+    gap: 20px;
+  }
+
+  .right_content .menu_nav_DX {
+    display: flex; 
+    gap: 5px; 
+  }
+
+  .right_content a {
+    color: white;
+    text-decoration: none;
+  }
+
+
+.place-content{
+    align-items: center;
+    margin-right: 20px;
+}
+.plus-icon{
+    margin-left: 20px;
+    width: 30px;
+    height: 30px;
+    color:  #FFF;
+    background-color: #E41D56;
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.btn-houses{
+    border: solid .5px #000;
+    border-radius: 30px;
+    background-color: #FFF;
+}
+.btn-houses a{
+    color: #000;
+    text-decoration: none;
+    font-size: smaller;
+}
+p{
+    font-size: small;
+}
+
+.card{
+    width: 15rem;
+    border: none;
+}
+.card img{
+    border-radius: 3%;
+}
