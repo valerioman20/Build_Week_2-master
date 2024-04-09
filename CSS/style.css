@@ -57,6 +57,20 @@ body{
     padding: 20px; 
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); 
     margin: 20px auto; 
-    max-width: 500px; 
+    max-width: 55%; 
 }
 
+/*----------------------------------------*/
+/*JUMBOTRON*/
+/*----------------------------------------*/
+.title h1{
+    font-size: 6.5rem;
+}
+
+#hero{
+    background-image: url('/assets/home.jpg');
+    background-size: cover; /* Per adattare l'immagine alla dimensione del body */
+    background-position: center;
+    background-repeat: no-repeat; /* Per evitare la ripetizione dell'immagine */
+    z-index: 10;
+}
