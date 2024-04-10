@@ -14,4 +14,9 @@ TODO:
 - da aggiustare le righe e colonne per visualizzazione responsive 
 - modificare con precisione le cards 
 - creare qualche animazione sugli hover delle cards
-- da modificare i font e le color 
+- da modificare i font e le color
+
+11/04 fradili
+completamento parte centrale pag1 e resa responsive
+11/04 valeman20
+completamento pag2 e resa responsive
