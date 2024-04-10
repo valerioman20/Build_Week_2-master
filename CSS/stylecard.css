@@ -1,0 +1,17 @@
+#iconapeople {
+    background-color: #696969 !important;
+    border-radius: 40px;
+    border: #696969 solid 2px;
+    padding: 5px; 
+    display: inline-block; 
+    color: #FFFFFF;
+
+}
+
+.word {
+    font-size: 20px;
+}
+.linknav{
+    text-decoration: none;
+    color: #696969;
+}
