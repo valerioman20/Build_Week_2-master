@@ -37,19 +37,22 @@
    .img1{
     border-top-left-radius: 20px;
     border-bottom-left-radius: 20px;
-    max-height: 100%;
+    min-height: 100%;
     object-fit: cover;
    }
   
-   .img{
-     max-height: 210px;
-     max-width: 300px;
+   .imgdx .row div img {
+     max-height:100%;
+     max-width: 100%
    }
    .review {
      min-height: 150px;
    }
 }
   
+.img1{
+    min-height: 100%;
+}
 
 .select{
     width: 100%;
@@ -58,3 +61,7 @@
     border: var(--bs-border-width) solid var(--bs-border-color);
 }
 
+.utente{
+    max-width:70px;
+    max-height: 70px;
+}
