@@ -45,5 +45,16 @@
      max-height: 210px;
      max-width: 300px;
    }
+   .review {
+     min-height: 150px;
+   }
 }
   
+
+.select{
+    width: 100%;
+    min-height: 38px;
+    border-radius: var(--bs-border-radius);
+    border: var(--bs-border-width) solid var(--bs-border-color);
+}
+
