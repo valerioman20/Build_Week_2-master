@@ -64,10 +64,23 @@ p{
     font-size: small;
 }
 
+/* card settings */
 .card{
-    width: 15rem;
+    width: 13rem;
     border: none;
 }
+.card:hover{
+    
+}
+.card h6{
+    font-weight: 400;
+    font-size: small;
+}
+.card-body{padding: 0;}
 .card img{
     border-radius: 3%;
+}
+.card i{
+    color: #E41D56;
+    padding-right: 5px;
 }
