@@ -75,37 +75,20 @@ body{
     z-index: 10;
 }
 
-<<<<<<< HEAD
-/* pag 2 */
-=======
-h6{
-    font-weight:500;
-    font-size: small;
-}
-/*----------------------------------------*/
-/*-----------BARRA CUSTOM RICERCA---------*/
-/*----------------------------------------*/
-.search-button-icon{
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    width: 30px;
-    height: 30px;
-    color: #FFF;
-    background-color: #FF0000;
-    border-radius: 50%;
+
+.review {
+    min-height: 150px;
+  }
+
+
+footer ul li a.nav-link{
+    color: white !important;
 }
 
-#nav_custom{
-    padding: 0.2em;
-    border-radius: 15em;
+#riga_prt_cntr div div img{
+    border-radius: 15px;
 }
 
-#nav_custom div{
-    margin-right: 0.4em;
+div.bg-white.p-5{
+    margin-top: 10rem;
 }
-
-#nav_custom div:first-child{
-    margin-right: 0.7em;
-}
->>>>>>> 95153099dab938f16e3f8b429f155ce8dafb590a
