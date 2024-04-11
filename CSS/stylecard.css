@@ -32,6 +32,8 @@
     max-height:300px;
 }
 */
+
+
 @media (min-width: 992px) {
     
    .img1{
@@ -48,6 +50,10 @@
    .review {
      min-height: 150px;
    }
+
+   .bordiuno{border-top-right-radius: 20px;}
+
+   .bordidue{border-bottom-right-radius: 20px;}
 }
   
 .img1{
