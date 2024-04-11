@@ -89,11 +89,19 @@
 
 .insertdate{
     max-width:100%;
+    min-width: 100%;
     height: 50px;
-    border: black 1px !important;
+    margin-top: 0 !important;
     border-bottom-left-radius: 20px;
     border-bottom-right-radius: 20px;
+}
+
+.aggiustato{
+    max-width: 312px;
     margin: auto;
+}
+.aggiustato input{
+    margin-top: 0;;
 }
 
 .cancellazione{
