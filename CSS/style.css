@@ -92,3 +92,36 @@ footer ul li a.nav-link{
 div.bg-white.p-5{
     margin-top: 10rem;
 }
+
+/*---------nav-search-bastarda*/
+#search{
+    max-width: 80%;
+    border-radius: 30.05px;
+}
+.search-button-icon{
+    width: 2em;
+    height: 2em;
+    border-radius: 50%;
+    color: #ffffff;
+    background-color: #E41D56;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.search-button-icon i{
+    font-size: small;
+}
+
+#search div div div h6, #search div div div label, .guests h6{
+    margin-bottom: 4px;
+    font-size: 0.7em;
+    font-weight: 700;
+}
+#search div div div input, #search div div div input, .guests input{
+   color: grey;
+}
+
+#Collegamento a{
+    text-decoration: none;
+    color: #212529;
+}
