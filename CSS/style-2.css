@@ -96,6 +96,9 @@ padding: 0;}
     color: #E41D56;
     padding-right: 5px;
 }
+a {
+    text-decoration: none;
+}
 
 .card {
     transition: transform 0.3s ease-in-out; 

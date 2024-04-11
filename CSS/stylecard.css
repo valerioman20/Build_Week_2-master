@@ -1,3 +1,41 @@
+#navbar_madre div a img{
+    max-width: 90px;
+}
+
+.menu_nav_DX {
+    width: 3.5em;
+    background-color: white;
+    border-radius: 15px;
+    height: 2.1em;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  
+}
+
+
+.menu_nav_DX i {
+    font-size: 15px;
+}
+
+.right_content {
+    display: flex; 
+    align-items: center; 
+    justify-content: flex-end;
+    gap: 20px;
+  }
+
+  .right_content .menu_nav_DX {
+    display: flex; 
+    gap: 5px; 
+  }
+
+.right_content a {
+    color: rgb(10, 10, 10);
+    text-decoration: none;
+  }
+
+
 #iconapeople {
     background-color: #696969 !important;
     border-radius: 40px;
@@ -22,7 +60,7 @@
 
 /* dopo nav */
 
-.h3 {margin-top: 80px;}
+
 
 
 /*
