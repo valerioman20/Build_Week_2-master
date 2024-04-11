@@ -20,3 +20,12 @@ TODO:
 completamento parte centrale pag1 e resa responsive
 11/04 valeman20
 completamento pag2 e resa responsive
+
+12/04
+Vari fix, collegamenti:
+- Logo AIRBNB porta sempre all'index
+- Dall'index se si clicca su Genova si va pagina 2
+- Da pagina 2 se si clicca la prima card si va a pagina 3
+  
+
+
