@@ -48,6 +48,10 @@
    .review {
      min-height: 150px;
    }
+
+   .bordiuno{border-top-right-radius: 20px;}
+
+   .bordidue{border-bottom-right-radius: 20px;}
 }
   
 .img1{
@@ -104,7 +108,7 @@
     margin-top: 0;;
 }
 
-.cancellazione{
+.cancellazione{e
     width: 314px;
 }
 
