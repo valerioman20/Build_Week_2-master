@@ -78,7 +78,7 @@ p{
 
 /* card settings */
 .card{
-    width: 18rem;
+    width: 12rem;
     border: none;
     cursor: pointer;
 }
@@ -107,7 +107,7 @@ padding: 0;}
 
 @media only screen and (max-width: 768px) {
     #navbar_madre div a img {
-        max-width: 70px; 
+        max-width: 150px; 
     }
 
     .right_content {
